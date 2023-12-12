@@ -1,2 +1,2 @@
-# schedulingapp
+# SchedulingApp
 Simple scheduling app 
